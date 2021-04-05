@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "663392601489",
+    "firebase_url": "https://notes-da20a.firebaseio.com",
+    "project_id": "notes-da20a",
+    "storage_bucket": "notes-da20a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663392601489:android:bbb9c5876406d57032c630",
+        "android_client_info": {
+          "package_name": "com.example.notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "663392601489-7p8c8bvoej86nouhdd49c5c8usrnmbk3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVLdEMVH5BrepxIkXuCpQgG-J45S9rUPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "663392601489-7p8c8bvoej86nouhdd49c5c8usrnmbk3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
